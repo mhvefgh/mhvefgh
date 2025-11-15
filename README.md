@@ -16,7 +16,12 @@
 > **Passionate developer with 5+ years of experience** building scalable web applications, microservices, and open-source tools.  
 > Expert in **PHP, Go, Ruby, Rust, and Python**, with deep knowledge of **Design Patterns**, **Clean Architecture**, and **DevOps**.
 
-Currently contributing to open-source and building **Microlite** — a modern PHP microframework.
+
+Currently building **[Microlite](https://github.com/mhvefgh/microlite)** — a blazing-fast, minimalist PSR-15 PHP microframework inspired by modern Go/Rust design principles.
+
+
+> **"I don’t just write code — I architect solutions."**
+
 
 ---
 
@@ -43,15 +48,15 @@ Currently contributing to open-source and building **Microlite** — a modern PH
 
 ---
 
-## Currently Learning
+## Currently Focusing On
 
-- **Go** – Building high-performance APIs
-- **Rust** – Systems programming & safety
-- **Microservices** with Go + gRPC
-- **Event Sourcing** & **CQRS**
-
+- High-performance backends with **Go** and **Rust**
+- Advanced microservices using **gRPC** and **NATS**
+- Event-Driven Architecture, **CQRS**, and **Event Sourcing**
+- 100% test coverage & Clean/Hexagonal Architecture in every project
 ---
 
+<br/>
 ## Tech Stack Icons
 
 <p align="center">
@@ -71,14 +76,32 @@ Currently contributing to open-source and building **Microlite** — a modern PH
 ## Let's Connect!
 
 - **Email**: [vefgh.m.hossein@gmail.com](mailto:vefgh.m.hossein@gmail.com)
-- **LinkedIn**: [linkedin.com/in/mohammad-hossein-vefgh-20b533164](https://www.linkedin.com/in/mohammad-hossein-vefgh-20b533164) *(بساز!)*
-<!-- - **Portfolio**: [mhvefgh.dev](https://mhvefgh.dev) *(با GitHub Pages بساز)*
+- **LinkedIn**: [linkedin.com/in/mohammad-hossein-vefgh-20b533164](https://www.linkedin.com/in/mohammad-hossein-vefgh-20b533164)
+<!-- - **Portfolio**: [mhvefgh.dev](https://mhvefgh.dev)
 - **Blog**: [blog.mhvefgh.dev](https://blog.mhvefgh.dev) *(اختیاری)* -->
+<div align="center">
+
+![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-10B981?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Remote Friendly](https://img.shields.io/badge/Remote-Friendly-4ECDC4?style=for-the-badge&logo=home&logoColor=white)
+![Relocation](https://img.shields.io/badge/Relocation-Yes-FF6B6B?style=for-the-badge&logo=plane&logoColor=white)
+
+**Available for freelance, contract & full-time roles worldwide**  
+Currently based in Baku, Azerbaijan • Timezone: GMT+4  
+Open to remote (preferred) • Relocation to Dubai, Australia, Germany, EU & beyond
+
+**Specializing in Go, Rust, PHP microframeworks, Clean Architecture & high-performance backends**
+
+<br/>
+
+**Let’s build scalable systems that power the next generation.**  
+Drop me a line → [vefgh.m.hossein@gmail.com](mailto:vefgh.m.hossein@gmail.com)
+
+</div>
+
+
 
 ---
 
 > _"Code is poetry. Architecture is art."_ – Me
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=mhvefgh&color=brightgreen)
