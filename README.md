@@ -1,11 +1,14 @@
 <div align="center">
 
-# Mohammad Hossein Vefgh  
-**Full-Stack Engineer | Open Source | Design Patterns Enthusiast**
+# Mohammad Hossein Vefgh
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/mhvefgh)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:vefgh.m.hossein@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://mhvefgh.dev)
+### Backend Engineer | PHP & Laravel | Microservices | Go
+
+Building scalable backend systems, APIs and business applications with a focus on clean architecture, performance and maintainability.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-hossein-vefgh-20b533164/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:vefgh.m.hossein@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?logo=googlechrome&logoColor=white)](https://mhvefgh.dev)
 
 </div>
 
@@ -13,95 +16,140 @@
 
 ## About Me
 
-> **Passionate developer with 5+ years of experience** building scalable web applications, microservices, and open-source tools.  
-> Expert in **PHP, Go, Ruby, Rust, and Python**, with deep knowledge of **Design Patterns**, **Clean Architecture**, and **DevOps**.
+I'm a **Backend Engineer with 10+ years of experience** building web applications, APIs, business platforms and distributed backend systems.
 
+My primary expertise is **PHP and Laravel**, with a strong focus on **microservices, REST APIs, database design, clean architecture and scalable backend systems**.
 
-Currently building **[Microlite](https://github.com/mhvefgh/microlite)** — a blazing-fast, minimalist PSR-15 PHP microframework inspired by modern Go/Rust design principles.
+I also work with **Go, Python and modern frontend technologies** when a project requires full-stack development or high-performance services.
 
+I care about writing software that is not only functional, but also **maintainable, testable and designed to evolve**.
 
-> **"I don’t just write code — I architect solutions."**
+Currently building **[Microlite](https://github.com/mhvefgh/microlite)** — a lightweight PSR-15 PHP microframework focused on simplicity, performance and clean architecture.
 
-
----
-
-## Skills & Expertise
-
-| Category         | Technologies |
-|------------------|------------|
-| **Backend**      | PHP • Laravel • Go (Gin, Fiber) • Ruby on Rails • Rust (Actix) • Python (FastAPI) |
-| **Frontend**     | Vue 3 • React • TypeScript • Tailwind CSS • Inertia.js |
-| **Databases**    | MySQL • PostgreSQL • Redis • SQLite |
-| **DevOps**       | Docker • Linux • CI/CD • Nginx • Bash |
-| **Architecture** | Design Patterns • Clean Code • Microservices • Event-Driven |
-| **Tools**        | Git • Postman • Composer • npm • Photoshop • Illustrator |
+> **Build simple. Design for scale.**
 
 ---
 
-## Open Source Projects
+## Core Expertise
 
-| Project | Description | Tech | Stars |
-|--------|-------------|------|-------|
-| **[Microlite](https://github.com/mhvefgh/microlite)** | Lightweight PSR-15 PHP microframework | PHP, FastRoute, Medoo | ![GitHub stars](https://img.shields.io/github/stars/mhvefgh/microlite?style=social) |
-| **[GoAuth](https://github.com/mhvefgh/goauth)** *(coming soon)* | JWT + OAuth2 middleware in Go | Go, Fiber | — |
-| **[RustCache](https://github.com/mhvefgh/rustcache)** *(coming soon)* | In-memory caching with Rust | Rust, Actix | — |
+| Area | Technologies |
+|------|--------------|
+| **Backend** | PHP • Laravel • Go • Python |
+| **APIs** | REST API • Authentication • OAuth2 • JWT • Webhooks |
+| **Architecture** | Microservices • Clean Architecture • Design Patterns • Event-Driven Architecture |
+| **Databases** | MySQL • PostgreSQL • Redis • SQLite |
+| **Messaging** | RabbitMQ • NATS |
+| **Frontend** | Vue 3 • React • TypeScript • Tailwind CSS • Inertia.js |
+| **DevOps** | Docker • Linux • Nginx • CI/CD • Bash |
+| **Development** | Git • Composer • npm • Postman |
 
 ---
 
-## Currently Focusing On
+## What I Build
 
-- High-performance backends with **Go** and **Rust**
-- Advanced microservices using **gRPC** and **NATS**
-- Event-Driven Architecture, **CQRS**, and **Event Sourcing**
-- 100% test coverage & Clean/Hexagonal Architecture in every project
+- Scalable **Laravel applications**
+- RESTful APIs and backend services
+- **Microservice architectures**
+- Business management platforms
+- Authentication and authorization systems
+- Payment and third-party integrations
+- Admin panels and internal tools
+- Database-driven web applications
+- High-performance services with **Go**
+- Custom PHP libraries and developer tools
+
 ---
 
-<br/>
-## Tech Stack Icons
+## Open Source
+
+### [Microlite](https://github.com/mhvefgh/microlite)
+
+A lightweight **PSR-15 PHP microframework** designed for developers who want a simple and fast foundation for building APIs and web applications.
+
+**Tech:** PHP • PSR-7 • PSR-15 • FastRoute • Medoo
+
+[![GitHub Stars](https://img.shields.io/github/stars/mhvefgh/microlite?style=social)](https://github.com/mhvefgh/microlite)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/mhvefgh/microlite)
+
+---
+
+## Current Focus
+
+- Building scalable backend systems with **PHP, Laravel and Go**
+- Designing maintainable **microservice architectures**
+- REST APIs and distributed systems
+- Event-driven architecture and message-based systems
+- Clean Architecture and Domain-Driven Design
+- Performance, reliability and observability
+- Open-source PHP tools and libraries
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <a href="https://go.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
-  <a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
-  <a href="https://rubyonrails.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://laravel.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
-  <a href="https://vuejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/></a>
-  <a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
+  <a href="https://www.php.net/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
+  </a>
+  <a href="https://laravel.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45"/>
+  </a>
+  <a href="https://go.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="45" height="45"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  </a>
+  <a href="https://redis.io/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="45" height="45"/>
+  </a>
+  <a href="https://www.rabbitmq.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="45" height="45"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+  </a>
 </p>
 
 ---
 
-## Let's Connect!
+## GitHub Activity
 
-- **Email**: [vefgh.m.hossein@gmail.com](mailto:vefgh.m.hossein@gmail.com)
-- **LinkedIn**: [linkedin.com/in/mohammad-hossein-vefgh-20b533164](https://www.linkedin.com/in/mohammad-hossein-vefgh-20b533164)
-<!-- - **Portfolio**: [mhvefgh.dev](https://mhvefgh.dev)
-- **Blog**: [blog.mhvefgh.dev](https://blog.mhvefgh.dev) *(اختیاری)* -->
 <div align="center">
 
-![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-10B981?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-![Remote Friendly](https://img.shields.io/badge/Remote-Friendly-4ECDC4?style=for-the-badge&logo=home&logoColor=white)
-![Relocation](https://img.shields.io/badge/Relocation-Yes-FF6B6B?style=for-the-badge&logo=plane&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhvefgh&show_icons=true&hide_border=true&rank_icon=github)
 
-**Available for freelance, contract & full-time roles worldwide**  
-Currently based in Baku, Azerbaijan • Timezone: GMT+4  
-Open to remote (preferred) • Relocation to Dubai, Australia, Germany, EU & beyond
-
-**Specializing in Go, Rust, PHP microframeworks, Clean Architecture & high-performance backends**
-
-<br/>
-
-**Let’s build scalable systems that power the next generation.**  
-Drop me a line → [vefgh.m.hossein@gmail.com](mailto:vefgh.m.hossein@gmail.com)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhvefgh&layout=compact&hide_border=true)
 
 </div>
 
-
-
 ---
 
-> _"Code is poetry. Architecture is art."_ – Me
+## Let's Connect
 
----
+I'm open to **freelance projects, contract work and full-time opportunities**.
+
+If you're building a web platform, backend system or API and need help with architecture and implementation, feel free to get in touch.
+
+- **Email:** [vefgh.m.hossein@gmail.com](mailto:vefgh.m.hossein@gmail.com)
+- **LinkedIn:** [Mohammad Hossein Vefgh](https://www.linkedin.com/in/mohammad-hossein-vefgh/)
+- **Portfolio:** [mhvefgh.dev](https://mhvefgh.dev)
+- **GitHub:** [github.com/mhvefgh](https://github.com/mhvefgh)
+
+<div align="center">
+
+### Open to Work
+
+**Freelance • Contract • Remote • Full-time**
+
+</div>
+
